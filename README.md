@@ -4,7 +4,9 @@
 
 
 
-<img src="./pics/logo_icon.png" width=50%>
+<div align="center">
+  <img src="./pics/logo_icon.png" width=250>
+</div>
 
 <br>
 
@@ -18,9 +20,7 @@ The project built using flutter. It's only contains two routes and a loading pag
 - It can read the converted code and with the help of the flashlight of the mobile device it can flash it out the code pattern
 
 
-<video width="320" height="240" autoplay muted controls>
-  <source src="./pics/demo.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/47777599/157832845-f3c1773c-fe18-49cd-a409-fb1109d114bf.mp4
 
 
 ## Team members
