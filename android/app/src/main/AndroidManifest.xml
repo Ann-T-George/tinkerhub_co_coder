@@ -1,7 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.blinking_morse">
+    <uses-permission android:name="android.permission.FLASHLIGHT"/>
    <application
-        android:label="blinking_morse"
+        android:label="Blinkin' Morse"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
