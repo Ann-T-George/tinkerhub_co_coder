@@ -4,7 +4,7 @@
 
 
 
-<img src="./pics/logo_icon.png">
+<img src="./pics/logo_icon.png" width=50%>
 
 <br>
 
@@ -44,9 +44,9 @@ Flutter / 58
 
 ## Packages Used
 
-morse: [^0.1.4+1](https://pub.dev/packages/morse)
-torch_light: [^0.4.0](https://pub.dev/packages/torch_light)
-flutter_launcher_icons: [^0.9.2](https://pub.dev/packages/flutter_launcher_icons)
+- morse: [^0.1.4+1](https://pub.dev/packages/morse)
+- torch_light: [^0.4.0](https://pub.dev/packages/torch_light)
+- flutter_launcher_icons: [^0.9.2](https://pub.dev/packages/flutter_launcher_icons)
 
 ## How to configure
 Step 1:
