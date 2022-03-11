@@ -4,9 +4,7 @@
 
 
 
-<img src="./pics/logo_icon.png" style="display: block;
-  margin-left: auto;
-  margin-right: auto;" height =250>
+<img src="./pics/logo_icon.png">
 
 <br>
 
