@@ -17,7 +17,11 @@ The project built using flutter. It's only contains two routes and a loading pag
 
 - It can read the converted code and with the help of the flashlight of the mobile device it can flash it out the code pattern
 
-<!-- ![video](./pics/demo.mp4) -->
+
+<video width="320" height="240" autoplay muted controls>
+  <source src="./pics/demo.mp4" type="video/mp4">
+</video>
+
 
 ## Team members
 1. [Alwin John](https://github.com/Dexters-Hub)
