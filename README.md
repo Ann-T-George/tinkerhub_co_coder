@@ -20,7 +20,9 @@ The project built using flutter. It's only contains two routes and a loading pag
 - It can read the converted code and with the help of the flashlight of the mobile device it can flash it out the code pattern
 
 
-https://user-images.githubusercontent.com/47777599/157832845-f3c1773c-fe18-49cd-a409-fb1109d114bf.mp4
+
+
+https://user-images.githubusercontent.com/47777599/157836781-18cecb32-d747-4e15-b01d-2441dfe01b71.mp4
 
 
 ## Team members
